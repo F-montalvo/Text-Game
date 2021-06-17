@@ -25,6 +25,4 @@ bSubmit.pack()
 
 
 
-
-
 root.mainloop()
